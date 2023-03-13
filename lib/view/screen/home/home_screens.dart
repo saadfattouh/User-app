@@ -72,7 +72,7 @@ class _HomePageState extends State<HomePage> {
     title = title;
   }
 
-  bool singleVendor = false;
+  bool singleVendor = true;
   @override
   void initState() {
     super.initState();
